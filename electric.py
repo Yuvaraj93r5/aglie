@@ -5,4 +5,5 @@ elif units<=200:
   bill=(100*2)+((units-100)*3)
 else:
   bill=(100*2)+(100*3)+((units-100)*5)
-print("Total Electricity Bill = RS."bill)
+print("Total Electricity Bill = RS.",bill)
+#output
